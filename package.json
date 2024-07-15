@@ -1,0 +1,19 @@
+{
+	"name": "create-electron-wasm",
+	"version": "1.0.0",
+	"description": "CLI to generate an Electron project with WebAssembly support",
+	"main": "bin/create-wasm-electron.js",
+	"bin": {
+		"create-wasm-electron": "./bin/create-wasm-electron.js"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Your Name",
+	"license": "MIT",
+	"dependencies": {
+		"commander": "^8.0.0",
+		"fs-extra": "^10.0.0",
+		"inquirer": "^8.2.6"
+	}
+}

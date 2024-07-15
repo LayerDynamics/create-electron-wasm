@@ -1,0 +1,7 @@
+{
+	"links": [
+		{ "name": "Home", "url": "/home" },
+		{ "name": "Usage", "url": "/usage" },
+		{ "name": "Resources", "url": "/resources" }
+	]
+}

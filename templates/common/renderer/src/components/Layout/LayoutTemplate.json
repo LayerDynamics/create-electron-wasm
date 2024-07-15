@@ -1,0 +1,13 @@
+{
+	"components": [
+		{
+			"name": "Menubar"
+		},
+		{
+			"name": "MainBody"
+		},
+		{
+			"name": "Footer"
+		}
+	]
+}
